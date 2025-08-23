@@ -1,0 +1,26 @@
+{
+  "name": "blog_application",
+  "version": "1.0.0",
+  "description": "Blog web application using Node.js, Express.js, and EJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blog",
+    "web",
+    "application",
+    "Node.js",
+    "Express.js",
+    "EJS"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "method-override": "^3.0.0"
+  }
+}
