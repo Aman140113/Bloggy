@@ -12,10 +12,10 @@ Bloggy is the capstone project of my learning journey, designed to demonstrate m
 ## Screenshots
 
 ### Blog Detail View
-![Blog Detail](./img/blog-detail.png)
+![Blog Detail](./img/Create-Img.png)
 
 ### Create Blog Page
-![Create Blog](./img/create-blog.png)
+![Create Blog](./img/Edit-Img.png)
 
 ## How to Run
 
