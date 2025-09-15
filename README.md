@@ -39,11 +39,9 @@ Bloggy is the capstone project of my learning journey, designed to demonstrate m
 
 ## Technologies Used
 
-- React.js
 - Node.js
 - Express.js
-- MongoDB
-- CSS (or Tailwind/Bootstrap if used)
+- CSS 
 
 ## About
 
